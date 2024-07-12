@@ -1,4 +1,3 @@
-from decimal import Decimal as D
 import math as m
 import copy
 import scipy.special as sp
